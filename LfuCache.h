@@ -5,6 +5,7 @@
 #include <mutex>
 #include <thread>
 #include <unordered_map>
+#include <climits>
 #include <vector>
 
 #include "CacheStrategy.h"
