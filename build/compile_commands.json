@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/edkaz/cpp_code/ARC_Cache/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/main.dir/testAllCacheStrategy.cpp.o -c /home/edkaz/cpp_code/ARC_Cache/testAllCacheStrategy.cpp",
+  "file": "/home/edkaz/cpp_code/ARC_Cache/testAllCacheStrategy.cpp"
+}
+]
